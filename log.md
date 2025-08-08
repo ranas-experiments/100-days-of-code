@@ -16,12 +16,18 @@
 
 
 
-### Day 1: June 27, Monday
+### Day 1: August 5th
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've gone through TOP's HTML foundations.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: August 6th, 2025
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Today's Progress**: I reviewed the HTML boilerplate.
+
+### Day 3: August 7th
+
+**Today's Progress**: I learned about nesting lists and different attributes that they can get, different types of markup, and reviewed linking to other webpages.
+
+### Day 4: August 8th
+
+**Today's progress**: Reviewed using images and links, learned about root paths, SVG format, and different attributes of the <a> tag.
