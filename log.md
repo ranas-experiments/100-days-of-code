@@ -27,6 +27,7 @@
 ### Day 3: August 7th
 
 **Today's Progress**: I learned about nesting lists and different attributes that they can get, different types of markup, and reviewed linking to other webpages.
+**Thoughts**: I feel that I'm moving a bit slow. But reading and following along all these resources takes time. I am practicing though, that's a good thing I suppose. I have to practie typing better too.
 
 ### Day 4: August 8th
 
