@@ -32,7 +32,7 @@
 
 ### Day 4: August 8th
 
-**Today's progress**: Reviewed using images and links, learned about root paths, SVG format, and different attributes of the <a> tag. Read about useful commits and a little on semanticc HTML.
+**Today's progress**: Reviewed using images and links, learned about root paths, SVG format, and different attributes of the a tag. Read about useful commits and a little on semanticc HTML.
 
 **Thoughts**: Still feeling that I'm going nowhere. I need to push through and maybe read more preisely and thoroughly and deeply. And also practice, which TOP's will come tomorrow. So fingers crossed for that!
 Also need to review how to use git and github. Will watch a video on that tomorrow.
@@ -40,5 +40,8 @@ Also need to review how to use git and github. Will watch a video on that tomorr
 ### Day 5: August 9th
 
 **Today's progress**: Just learned how to add an element to multiple lines in vs code which is SO COOL!!!
+Practiced builing multiple pages. Learned some useful vs code shortcuts. Practiced git and published my work on github.
 
-**Thoughts**:
+**Thoughts**: Didn't learn any new html today and I'm somewhat worried that I'm losing oppurtunities to learn. I'm gonna read MDN pages more carefully and practice using more elements. But it was really fun today and thr vsc trick really gave me a pump! Also this re-learning how to type thing is somewhat challenging.
+
+**Link to Work**: https://ranasexperiments.github.io/odin-recipes
