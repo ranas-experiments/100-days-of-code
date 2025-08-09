@@ -36,3 +36,9 @@
 
 **Thoughts**: Still feeling that I'm going nowhere. I need to push through and maybe read more preisely and thoroughly and deeply. And also practice, which TOP's will come tomorrow. So fingers crossed for that!
 Also need to review how to use git and github. Will watch a video on that tomorrow.
+
+### Day 5: August 9th
+
+**Today's progress**: Just learned how to add an element to multiple lines in vs code which is SO COOL!!!
+
+**Thoughts**:
