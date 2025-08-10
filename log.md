@@ -44,4 +44,8 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 
 **Thoughts**: Didn't learn any new html today and I'm somewhat worried that I'm losing oppurtunities to learn. I'm gonna read MDN pages more carefully and practice using more elements. But it was really fun today and thr vsc trick really gave me a pump! Also this re-learning how to type thing is somewhat challenging.
 
+### Day 6: August 10th
+
+**Today's Progress**: Just reviewed the basic syntax for css. Short on time.
+
 **Link to Work**: https://ranasexperiments.github.io/odin-recipes
