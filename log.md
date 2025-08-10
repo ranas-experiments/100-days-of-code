@@ -46,6 +46,8 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 
 ### Day 6: August 10th
 
-**Today's Progress**: Just reviewed the basic syntax for css. Short on time.
+**Today's Progress**: Just reviewed the basic syntax for css and practiced using classes and IDs.
+
+**Thoughts**: I feel frustrsted with css. It scares me more than it should. and I'm afraid if this is how I feel about the beginning of css, what will js bring?! BUT! that's not something to worry about for now. Judt focus on the now.
 
 **Link to Work**: https://ranasexperiments.github.io/odin-recipes
