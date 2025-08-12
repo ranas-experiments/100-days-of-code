@@ -51,3 +51,9 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Thoughts**: I feel frustrsted with css. It scares me more than it should. and I'm afraid if this is how I feel about the beginning of css, what will js bring?! BUT! that's not something to worry about for now. Judt focus on the now.
 
 **Link to Work**: https://ranasexperiments.github.io/odin-recipes
+
+### Day 7: August 11th
+
+**Today's progress**: Did Odin's css exercises.
+
+**Thoughts**: CSS feels scary! Although the pratices were easy and I didn't struggle at all, but grasping the whole idea of the different kinds of selecting is a bit hard. Also typing is hard!
