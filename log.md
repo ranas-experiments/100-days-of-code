@@ -57,3 +57,9 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: Did Odin's css exercises.
 
 **Thoughts**: CSS feels scary! Although the pratices were easy and I didn't struggle at all, but grasping the whole idea of the different kinds of selecting is a bit hard. Also typing is hard!
+
+### Day 8: August 12th
+
+**Today's progress**: Learned about specificity and the cascade. Did Odin's exercises.
+
+**Thoughts**: It feels a bit icky. But I was able to do the practices right, so I get I have to see how stuff goes in real projects.
