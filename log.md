@@ -63,3 +63,9 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: Learned about specificity and the cascade. Did Odin's exercises.
 
 **Thoughts**: It feels a bit icky. But I was able to do the practices right, so I get I have to see how stuff goes in real projects.
+
+### Day 9: August 13th
+
+**Today's progress**: Learned about Chrome's DevTools and practiced typing.
+
+**Thoughts**: Ugh.
