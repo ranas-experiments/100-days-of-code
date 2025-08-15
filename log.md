@@ -69,3 +69,9 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: Learned about Chrome's DevTools and practiced typing.
 
 **Thoughts**: Ugh.
+
+### Day 10: August 14th
+
+**Today's progress**: Learned about css box model finally in detail and practiced typing.
+
+**Thoughts**: I'm happy I've learned this. Gonna try and apply for the graphics design course tomorrow.
