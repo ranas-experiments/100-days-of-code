@@ -75,3 +75,9 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: Learned about css box model finally in detail and practiced typing.
 
 **Thoughts**: I'm happy I've learned this. Gonna try and apply for the graphics design course tomorrow.
+
+### Day 11: August 15th
+
+**Today's progress**: Learned further about css box model in detail and practiced somethings. I also practiced typing.
+
+**Thoughts**: It's reslly cool to learn about details of how these things work. There are so many variables and rules and that's both challenging and fun.
