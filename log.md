@@ -81,3 +81,13 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: Learned further about css box model in detail and practiced somethings. I also practiced typing.
 
 **Thoughts**: It's reslly cool to learn about details of how these things work. There are so many variables and rules and that's both challenging and fun.
+
+### Day 12: August 16th
+
+**Today's progress**: practiced css.
+
+### Day 13: August 17th
+
+**Today's progress**: practiced styling a page with css. learned a tiny bit about flexbox.
+
+**Thoughts**: seems like i've forgotten the things that i've learned; or maybe it's just not that much and is just the very basic things and that's why i don't think of it that much.
