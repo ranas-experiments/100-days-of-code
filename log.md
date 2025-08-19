@@ -91,3 +91,15 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: practiced styling a page with css. learned a tiny bit about flexbox.
 
 **Thoughts**: seems like i've forgotten the things that i've learned; or maybe it's just not that much and is just the very basic things and that's why i don't think of it that much.
+
+### Day 14: August 18th
+
+**Today's progress**: learned the foundations of flexbox.
+
+**Thoughts**: this seems really cool.
+
+### Day 15: August 19th
+
+**Today's progress**: practicced and learned a tiny bit more flexbox.
+
+**Thoughts**: this is really cool!
