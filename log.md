@@ -106,6 +106,6 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 
 ### Day 16: August 20th
 
-**Today's progress**: Learned about 'flex' values, initial, auto and none. First time reading a -part of- W3C article.
+**Today's progress**: Learned about flex properties, initial, auto and none. First time reading a -part of- W3C article.
 
 **Thoughts**: a bit abstract, need practie.
