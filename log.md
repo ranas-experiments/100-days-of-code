@@ -103,3 +103,9 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: practicced and learned a tiny bit more flexbox.
 
 **Thoughts**: this is really cool!
+
+### Day 16: August 20th
+
+**Today's progress**: Learned about 'flex' values, initial, auto and none. First time reading a -part of- W3C article.
+
+**Thoughts**: a bit abstract, need practie.
