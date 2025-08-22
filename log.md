@@ -120,7 +120,11 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 
 **Today's progress**: Learned about the flexbox:
 <ul>
-  <li>min-width=0 can fix the flex-shrink item overflowing.</li>
-<ul/>
+  <li>min-width=0 can fix the flex-shrink items overflowing when past their default min width.</li>
+  <li>flex-basis is like width/height but it's pegged to the main axis. so when flex-direction=column, basis actually changes height.</li>
+  <li>margin-left/right=auto <small>can also be done with nesting some items in another flexbox and using flex=1</small></li>
+  <li>align-content</li>
+  <li>border-radius=16px/50% creates circles</li>
+</ul>
 
 **Thoughts**: 
