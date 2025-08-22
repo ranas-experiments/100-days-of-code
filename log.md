@@ -106,6 +106,21 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 
 ### Day 16: August 20th
 
-**Today's progress**: Learned about the flex property values, initial, auto and none. First time reading a -part of- W3C article.
+**Today's progress**: Learned about the flex property values: initial, auto and none. First time reading a -part of- W3C article.
 
 **Thoughts**: a bit abstract, need practie.
+
+### Day 17: August 21th
+
+**Today's progress**: Practiced and learned a bunch about flexbox.
+
+**Thoughts**: This is manageable, but needs more practice to really sink in.
+
+### Day 18: August 22th
+
+**Today's progress**: Learned about the flexbox:
+<ul>
+  <li>min-width=0 can fix the flex-shrink item overflowing.</li>
+<ul/>
+
+**Thoughts**: 
