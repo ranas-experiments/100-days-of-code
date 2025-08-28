@@ -148,6 +148,6 @@ have to look into the things that I missed.
 
 ### Day 21: August 28th
 
-**Today's progress**: Did odin's flexbox exercises. <br>In order to make a page fit the entire browser window size, height: 100vh can be used. 1vh=1% of the viewport. Also overflow: hidden prevents scrolling.
+**Today's progress**: Did odin's flexbox exercises. <br>In order to make a page fit the entire browser window size, height: 100vh can be used. 1vh=1% the height of the viewport. Also overflow: hidden prevents scrolling.
 
 **Thoughts**: I get more and more confused with flex.
