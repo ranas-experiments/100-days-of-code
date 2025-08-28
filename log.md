@@ -125,6 +125,23 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
   <li>margin-left/right=auto <small>can also be done with nesting some items in another flexbox and using flex=1</small></li>
   <li>align-content</li>
   <li>border-radius=16px/50% creates circles</li>
-</ul>
+</ul> 
 
-**Thoughts**: 
+### Day 17: August 22th
+
+**Today's progress**: Did odin's flexbox exercises.
+
+**Thoughts**: these were easy,...
+
+
+### August 22-26th
+
+**Today's progress**: <i>fell sick so wasn't able to do anything. but won't reset the timer 'cause i was sick!</i>
+
+
+### Day 18: August 27th
+
+**Today's progress**: Did the rest of odin's flexbox exercises.
+
+**Thoughts**: these were frustrating! why does flexbox do these things?!
+have to look into the things that I missed.
