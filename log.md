@@ -127,7 +127,7 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
   <li>border-radius=16px/50% creates circles</li>
 </ul> 
 
-### Day 17: August 22th
+### Day 19: August 22th
 
 **Today's progress**: Did odin's flexbox exercises.
 
@@ -139,7 +139,7 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 **Today's progress**: <i>fell sick so wasn't able to do anything. but won't reset the timer 'cause i was sick!</i>
 
 
-### Day 18: August 27th
+### Day 20: August 27th
 
 **Today's progress**: Did the rest of odin's flexbox exercises.
 
