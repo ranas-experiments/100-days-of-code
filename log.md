@@ -127,14 +127,14 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
   <li>border-radius=16px/50% creates circles</li>
 </ul> 
 
-### Day 19: August 22th
+### Day 19: August 23th
 
 **Today's progress**: Did odin's flexbox exercises.
 
 **Thoughts**: these were easy,...
 
 
-### August 22-26th
+### August 24-26th
 
 **Today's progress**: <i>fell sick so wasn't able to do anything. but won't reset the timer 'cause i was sick!</i>
 
@@ -145,3 +145,10 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 
 **Thoughts**: these were frustrating! why does flexbox do these things?!
 have to look into the things that I missed.
+
+### Day 21: August 28th
+
+**Today's progress**: Did odin's flexbox exercises.
+In order to make a page fit the entire browser window size, height: 100vh can be used. 1vh=1% of the viewport. Also overflow: hidden prevents scrolling.
+
+**Thoughts**: 
