@@ -50,7 +50,7 @@ Practiced builing multiple pages. Learned some useful vs code shortcuts. Practic
 
 **Thoughts**: I feel frustrsted with css. It scares me more than it should. and I'm afraid if this is how I feel about the beginning of css, what will js bring?! BUT! that's not something to worry about for now. Judt focus on the now.
 
-**Link to Work**: https://ranasexperiments.github.io/odin-recipes
+**Link to Work**: https://ranas-experiments.github.io/odin-recipes
 
 ### Day 7: August 11th
 
@@ -151,3 +151,11 @@ have to look into the things that I missed.
 **Today's progress**: Did odin's flexbox exercises. <br>In order to make a page fit the entire browser window size, height: 100vh can be used. 1vh=1% the height of the viewport. Also overflow: hidden prevents scrolling.<br>played with chatgpt for a while.
 
 **Thoughts**: I get more and more confused with flex.<br>post-gpt, i'm feeling like i'm getting a hold of this...
+
+### Day 22: August 29th
+
+**Today's progress**: completed the end of odin's CSS foundations project. <br> Learned about transformation-duration which is super cool.
+
+**Thoughts**: this was super fun.
+
+**Link to Work**: https://ranas-experiments.github.io/full-webpage-project/
