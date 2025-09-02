@@ -159,3 +159,25 @@ have to look into the things that I missed.
 **Thoughts**: this was super fun.
 
 **Link to Work**: https://ranas-experiments.github.io/full-webpage-project/
+
+### Day 23: August 30th
+
+**Today's progress**: Started leasrning JavaScript. Just some basic introductions.
+
+**Thoughts**: whoa.
+
+### Day 24: August 31th
+
+**Today's progress**: Got familiar with math used in JS.
+
+**Thoughts**: hisashiburidane!
+
+### Day 25: September 1st
+
+**Today's progress**: more math.
+
+### Day 26: September 2nd
+
+**Today's progress**: Reviewd JS' very basics again.
+
+**Thoughts**: This feels a but overwhelming.
