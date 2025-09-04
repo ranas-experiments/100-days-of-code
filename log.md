@@ -181,3 +181,15 @@ have to look into the things that I missed.
 **Today's progress**: Reviewd JS' very basics again.
 
 **Thoughts**: This feels a but overwhelming.
+
+### Day 27: September 3rd
+
+**Today's progress**: Studied operators, conditioning, etc. Made my first if statement.
+
+**Thoughts**: this feels a bit vague still. all of these rules and still very little to do.
+
+### Day 28: September 4th
+
+**Today's progress**: 
+
+**Thoughts**
