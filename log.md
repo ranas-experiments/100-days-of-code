@@ -184,7 +184,7 @@ have to look into the things that I missed.
 
 ### Day 27: September 3rd
 
-**Today's progress**: Studied operators, conditioning, etc. Made my first if statement.
+**Today's progress**: Studied operators, conditionals, etc. Made my first if statement.
 
 **Thoughts**: this feels a bit vague still. all of these rules and still very little to do.
 
@@ -193,3 +193,9 @@ have to look into the things that I missed.
 **Today's progress**: Did some basic practices.
 
 **Thoughts**: feeling frustrated because i still don't know much of the syntax.
+
+### Day 29: September 5th
+
+**Today's progress**: finished the readings on conditionals and reviews some basics.
+
+**Thoughts**: i don't know... this has gotten better but like yesterday, i still feel like i'm walking on a very shaky ground. things will get better, just like flexbox. but this time the scope is much wider-- thus more exciting! at least it will be when i get to actually do things and not just read...
