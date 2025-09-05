@@ -190,6 +190,6 @@ have to look into the things that I missed.
 
 ### Day 28: September 4th
 
-**Today's progress**: 
+**Today's progress**: Did some basic practices.
 
-**Thoughts**
+**Thoughts**: feeling frustrated because i still don't know much of the syntax.
