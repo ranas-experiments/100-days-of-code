@@ -199,3 +199,9 @@ have to look into the things that I missed.
 **Today's progress**: finished the readings on conditionals and reviews some basics.
 
 **Thoughts**: i don't know... this has gotten better but like yesterday, i still feel like i'm walking on a very shaky ground. things will get better, just like flexbox. but this time the scope is much wider-- thus more exciting! at least it will be when i get to actually do things and not just read...
+
+### Day 30: September 6th
+
+**Today's progress**: finished odin's first 5 js practices.
+
+**Thoughts**: these were easier than the things i've been learning. I'm feeling overwhelmed and frustrated by js. So many things to learn and my brain feels frozen. also typing correctly is hard.
