@@ -205,3 +205,9 @@ have to look into the things that I missed.
 **Today's progress**: finished odin's first 5 js practices.
 
 **Thoughts**: these were easier than the things i've been learning. I'm feeling overwhelmed and frustrated by js. So many things to learn and my brain feels frozen. also typing correctly is hard.
+
+### Day 31: September 7th
+
+**Today's progress**: Read about chrome webdev tools.
+
+**Thoughts**: tired...
