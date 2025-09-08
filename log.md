@@ -208,6 +208,12 @@ have to look into the things that I missed.
 
 ### Day 31: September 7th
 
-**Today's progress**: Read about chrome webdev tools.
+**Today's progress**: Read about chrome webdev tools and went down a few CSS rabbit holes.
 
 **Thoughts**: tired...
+
+### Day 32: September 8th
+
+**Today's progress**: Read more about chrome webdev tools and learned a tiny bit about functions!
+
+**Thoughts**: this is just starting.
