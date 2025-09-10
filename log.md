@@ -223,3 +223,9 @@ have to look into the things that I missed.
 **Today's progress**: Read about functions and tried to make a few.
 
 **Thoughts**: everything is out of focus. my mind is jumping all over the place. To understand a sentence I have to read it at least twice.
+
+### Day 34: September 10th
+
+**Today's progress**: Finally finished MDN's articles on functions and learned some bits about arrays and event listeners. Made a few simple functions myself.
+
+**Thoughts**: phew! now this is a bit more undestrandable. But also there's the whole logic behind the arrangement of things that i still kinda don't get, also it takes more time for the syntax to stick to my mind compared to HTML and CSS.
