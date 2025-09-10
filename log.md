@@ -217,3 +217,9 @@ have to look into the things that I missed.
 **Today's progress**: Read more about chrome webdev tools and learned a tiny bit about functions!
 
 **Thoughts**: this is just starting.
+
+### Day 33: September 9th
+
+**Today's progress**: Read about functions and tried to make a few.
+
+**Thoughts**: everything is out of focus. my mind is jumping all over the place. To understand a sentence I have to read it at least twice.
