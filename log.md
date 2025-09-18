@@ -244,7 +244,7 @@ have to look into the things that I missed.
 
 **Thoughts**: it seems like there are many details (; for example) that escape from my eyes. and i feel like it will take forever for me to get a hold of this language.
 
-### Day 37: September 18th
+### Day 38: September 18th
 
 **Today's progress**: practiced the differences between function expressions and function declarations. did Odin's basic practices. read a tiny bit about the JS call stack and arrow functions.
 
