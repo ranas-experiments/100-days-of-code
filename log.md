@@ -249,3 +249,9 @@ have to look into the things that I missed.
 **Today's progress**: practiced the differences between function expressions and function declarations. did Odin's basic practices. read a tiny bit about the JS call stack and arrow functions.
 
 **Thoughts**: well at least the exercises were a little soothing to see that i'm able to do some things. there aren't much real life examples and that makes grasping the concepts hard. also time flies by. my typing's gotten better but my brain is still mush.
+
+### Day 39: September 19th
+
+**Today's progress**: read some things on problem solving.
+
+**Thoughts**: this part also is actually overwhelming because i feel like i don't know a thing about it. but i guess it's gonna come in handy for other things in life too. gotta keep pushing which is hard whith all of this work overload.
