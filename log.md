@@ -255,3 +255,17 @@ have to look into the things that I missed.
 **Today's progress**: read some things on problem solving.
 
 **Thoughts**: this part also is actually overwhelming because i feel like i don't know a thing about it. but i guess it's gonna come in handy for other things in life too. gotta keep pushing which is hard whith all of this work overload.
+
+### Day 40: September 20th
+
+**Today's progress**: read about commin js errors.
+
+**Thoughts:** wow day 40! almost halfway there! (with just a few deviations :> ).
+
+### Day 41: September 21th
+
+**Today's progress**: started creating the rock paper scissors game.
+
+**Thoughts**: which is super fun! gonna read about loops tomorrow so i can finish this one step ahead!
+
+**Link to work:** https://github.com/ranas-experiments/rock-paper-scissors
