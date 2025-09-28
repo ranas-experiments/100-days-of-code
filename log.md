@@ -269,3 +269,11 @@ have to look into the things that I missed.
 **Thoughts**: which is super fun! gonna read about loops tomorrow so i can finish this one step ahead!
 
 **Link to work:** https://github.com/ranas-experiments/rock-paper-scissors
+
+### Day 42: September 28th
+
+**Today's progress**: finished creating the rock paper scissors game!
+
+**Thoughts**: it feels nice that after a one week gap (due to work overload) i still remember the things i've learned and i was even able to create a loop statement! i know now that my code could be so much shorter by using ${these kind of stuff} (embedding expressions using template literals) and i think it could be cleaner as well, but! one step at a time. i was able to make a mini console game all by myself and that's rad!
+
+**Link to work:** https://ranas-experiments.github.io/rock-paper-scissors
