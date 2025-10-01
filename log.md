@@ -277,3 +277,8 @@ have to look into the things that I missed.
 **Thoughts**: it feels nice that after a one week gap (due to work overload) i still remember the things i've learned and i was even able to create a loop statement! i know now that my code could be so much shorter by using ${these kind of stuff} (embedding expressions using template literals) and i think it could be cleaner as well, but! one step at a time. i was able to make a mini console game all by myself and that's rad!
 
 **Link to work:** https://ranas-experiments.github.io/rock-paper-scissors
+
+### Day 43: September 30th
+
+**Today's progress**: Read about clean code and loops. Made a few loops to go over items in an array.
+
