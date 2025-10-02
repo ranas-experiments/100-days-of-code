@@ -282,3 +282,14 @@ have to look into the things that I missed.
 
 **Today's progress**: Read about clean code and loops. Made a few loops to go over items in an array.
 
+### Day 44: Otober 1st
+
+**Today's progress**: Read more on loops.
+
+**Thoughts**: wow it's october already...
+
+### Day 45: October 2nd
+
+**Today's progress**: finally finished MDN's article on loops and did their playground exercises.
+
+**Thoughts**: I'm feeling more confident and have been working on linking to actual items on a html page which is nice.
