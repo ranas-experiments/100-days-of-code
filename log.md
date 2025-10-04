@@ -293,3 +293,15 @@ have to look into the things that I missed.
 **Today's progress**: finally finished MDN's article on loops and did their playground exercises.
 
 **Thoughts**: I'm feeling more confident and have been working on linking to actual items on a html page which is nice.
+
+### Day 46: October 3rd
+
+**Today's progress**: Read and exercised about manipulating the DOM. Started the creating a guest list project.
+
+**Thoughts**: Very cool.
+
+### Day 47: October 4th
+
+**Today's progress**: Finished the project about the DOM and did the MDN loop practices. I also learned how to activate a button by clicking enter while in an input.
+
+**Thoughts**: This feels like I'm actually able to do stuff with aaaalllll of those things that i read about. Feels very nice. My VM is starting to act weird though, getting all laggy from time to time. 
