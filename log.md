@@ -305,3 +305,11 @@ have to look into the things that I missed.
 **Today's progress**: Finished the project about the DOM and did the MDN loop practices. I also learned how to activate a button by clicking enter while in an input.
 
 **Thoughts**: This feels like I'm actually able to do stuff with aaaalllll of those things that i read about. Feels very nice. My VM is starting to act weird though, getting all laggy from time to time. 
+
+### Day 48: October 5th
+
+**Today's progress**: Finished reading about loops.
+
+### Day 49: October 7th
+
+**Today's progress**: Started learning about arrays.
