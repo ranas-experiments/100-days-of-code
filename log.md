@@ -313,3 +313,9 @@ have to look into the things that I missed.
 ### Day 49: October 7th
 
 **Today's progress**: Started learning about arrays.
+
+### Day 50: October 8th
+
+**Today's progress**: Completed my function for sumInput using !(Number.isNaN(value)). Also learned about some array methods.
+
+**Thoughts**: Feeling kinda nice! But the shrinking amount of time that I study is unpleasant for me.
