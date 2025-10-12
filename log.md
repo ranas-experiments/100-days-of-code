@@ -325,3 +325,9 @@ have to look into the things that I missed.
 **Today's progress**: Continued reading on array methods.
 
 **Thoughts**: This is really boring to me, the as when i was learning about string methods and such. Ugh i just wish this would end soon.
+
+### Day 52: October 12th
+
+**Today's progress**: Continued reading on array methods and practiced a bit.
+
+**Thoughts**: Funny how one day's sleep can make a difference in how much I grasp a concept. Splice method seems so easier today compared to yesterday. Tomorrow I will do more practice and hopefuly end this method-reading suffering.
