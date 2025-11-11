@@ -331,3 +331,9 @@ have to look into the things that I missed.
 **Today's progress**: Continued reading on array methods and practiced a bit.
 
 **Thoughts**: Funny how one day's sleep can make a difference in how much I grasp a concept. Splice method seems so easier today compared to yesterday. Tomorrow I will do more practice and hopefuly end this method-reading suffering.
+
+### Day 53: November 11th
+
+**Today's progress**: After the death of a friend, many days of not studying, and some days of unlogged studies, finally, the "Loops and Arrays" lesson has come to an end!
+
+**Thoughts**: Programming has many details and tips and tricks, and learning and remembering all of them seems like a tiresome act. Right now I am tired, and out of focus. But it's no time to quit. I have to keep going, with tiny little continious steps, as much as I can, just like always.
